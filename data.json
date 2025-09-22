@@ -1,0 +1,15 @@
+{
+    "incomes": [
+        {
+            "description": "Comida",
+            "amount": 10000.0
+        }
+    ],
+    "expenses": [
+        {
+            "description": "gimnasio",
+            "amount": 15000.0,
+            "category": "entretenimineto"
+        }
+    ]
+}
